@@ -18,6 +18,8 @@ Ruppert, David and David S. Matteson. _Statistics and Data Analysis for Financia
 
 Quantivity. "Why Log Returns?" Quantivity, 21 Feb. 2011, https://quantivity.wordpress.com/2011/02/21/why-log-returns/.
 
+Costan, Julian. "Linear vs. Log Returns." Decentralized Meta-Learning, 14 Sept. 2021, https://blog.costan.ro/post/2021-09-14-linear-log-returns/.
+
 Hudson, Robert and Gregoriou, Andros, _Calculating and Comparing Security Returns is Harder than you Think: A Comparison between Logarithmic and Simple Returns_ (February 7, 2010). Available at SSRN: https://ssrn.com/abstract=1549328
 
 Meucci, Attilio, _Quant Nugget 2: Linear vs. Compounded Returns – Common Pitfalls in Portfolio Management_ (May 1, 2010). GARP Risk Professional, pp. 49-51, April 2010 , Available at SSRN: https://ssrn.com/abstract=1586656 
