@@ -32,7 +32,7 @@ This notebook examines the calculation of Net, Gross and Log Returns of an asset
 
 This notebook covers a wide array of data analysis techniques for assets: Sample Quantiles, Kernel Density Estimations, Tests of Normality are some of the functions in this notebook; The plots covered are Histograms, Box Plots, Normal Probability Plots, Half-Normal Plots, and Quantile-Quantile Plots.
 
-Included are probability distributions of the semiconductor stock APH's daily adjusted close price, net returns, log returns and root returns.
+Included are histograms and Normal Probability Plots of the semiconductor stock APH's daily adjusted close price, net returns, log returns and root returns.
 
 _Note: The Python section of this notebook is still in-progress, as a result this notebook is mostly just notes in markdown and LaTeX. The functions will be done before 2/4/24_
 
