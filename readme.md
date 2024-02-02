@@ -8,6 +8,14 @@ I will be taking notes on the Textbook _Statistics and Data Analysis for Financi
 
 Scripts are still a TODO, and will focus on Object-Oriented representations of the finance topics covered in the Jupyter/iPython Notebooks
 
+If you are interested in previous projects I have written that cover similar topics, please take a look at:
+
+[CAPM](https://github.com/dBCooper2/financial-modeling/blob/main/notebooks/finance/capm.ipynb) and [Fama-French](https://github.com/dBCooper2/financial-modeling/blob/main/notebooks/finance/fama-french.ipynb) Beta Estimation in Jupyter Notebooks
+
+[Scraping Data from Yahoo Finance]()
+
+Visualizing [Candle]() and [Financial Statement](notebooks/finance/visualizing_book_data.ipynb) Data
+
 ## Jupyter/iPython Notebooks
 
 ### Table of Contents(Links will be added as I cover the material)
