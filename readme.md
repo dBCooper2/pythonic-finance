@@ -26,9 +26,11 @@ This notebook examines the calculation of Net, Gross and Log Returns of an asset
 
 ### _Textbook Notes:_ [Time Series Modeling](notebooks/time_series/)
 
-### _Textbook Notes:_ [Examining Distributions](notebooks/time_series/exploratory_data_analysis.ipynb)
+### _Textbook Notes:_ [Examining Distributions](notebooks/time_series/notebooks/time_series/exploratory_data_analysis__textbook.ipynb)
 
-<img src="/docs/readme_files/time_series_data_analysis_chapter/dists_side_by_side.png" alt="dists_compared"/>
+### _Python Exercises:_ [Examining Distributions with Histograms and Kernel Density Estimates](notebooks/time_series/exploratory_data_analysis__python_hists_kde.ipynb)
+
+<img src="/docs/readme_files/time_series_data_analysis_chapter/"hists_kde.png alt="dists_compared"/>
 
 This notebook covers a wide array of data analysis techniques for assets: Sample Quantiles, Kernel Density Estimations, Tests of Normality are some of the functions in this notebook; The plots covered are Histograms, Box Plots, Normal Probability Plots, Half-Normal Plots, and Quantile-Quantile Plots.
 
