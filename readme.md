@@ -8,7 +8,7 @@ I will be taking notes on the Textbook _Statistics and Data Analysis for Financi
 
 ### [Calculating Returns](notebooks/financial_data/returns_textbook_notes.ipynb)
 
-<img src="/docs/readme_files/returns_chapter/amd_log_returns.png" alt="amd_log" style="width: 55%;"/>
+<img src="/docs/readme_files/returns_chapter/amd_log_returns.png" alt="amd_log" style="width: 85%;"/>
 
 ### [Time Series Modeling](notebooks/time_series/)
 
