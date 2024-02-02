@@ -12,7 +12,7 @@ This repository is a catch-all for notes, programs and algorithms for financial 
 
 ### - [Time Series Modeling](notebooks/time_series/)
 
-####  - [Examining Distributions](notebooks/time_series/exploratory_data_analysis.ipynb)
+  #### - [Examining Distributions](notebooks/time_series/exploratory_data_analysis.ipynb)
 
 <img src="/docs/readme_files/time_series_data_analysis_chapter/dists_side_by_side.png" alt="dists_compared"/>
 
@@ -26,9 +26,9 @@ This repository is a catch-all for notes, programs and algorithms for financial 
     <img src="/docs/readme_files/time_series_data_analysis_chapter/aph_root_returns.png" alt="aph_rr" style="width: 45%;">
 </div>
 
-####  - Time Series Modeling: Basics
+  #### - Time Series Modeling: Basics
 
-####  - Time Series Modeling: Further Topics
+  #### - Time Series Modeling: Further Topics
 
 ### - Modeling Univariate and Multivariate Statistical Models
 
