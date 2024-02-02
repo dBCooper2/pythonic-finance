@@ -48,6 +48,14 @@ _Note: The Python section of this notebook is still in-progress, as a result thi
 
 ### Capital Asset Pricing Model
 
+### Fama-French 3-Factor Model
+
+### Fama-French 5-Facotr Model
+
+### Portfolio Evaluation and Comparison Measures
+
+### Custom Regression Models for CAPM and FF3/FF5 Models
+
 ## Resources
 
 Ruppert, David and David S. Matteson. _Statistics and Data Analysis for Financial Engineering with R examples_. $2^{nd}$ ed., Springer, 2015.
