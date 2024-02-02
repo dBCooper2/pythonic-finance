@@ -18,15 +18,15 @@ Visualizing [Candle](https://github.com/dBCooper2/financial-modeling/blob/main/n
 
 ## Jupyter/iPython Notebooks
 
-### [Calculating Returns](notebooks/financial_data/returns_textbook_notes.ipynb)
+### _Textbook Notes_ [Calculating Returns](notebooks/financial_data/returns_textbook_notes.ipynb)
 
 <img src="/docs/readme_files/returns_chapter/amd_log_returns.png" alt="amd_log" style="width: 85%;"/>
 
 This notebook examines the calculation of Net, Gross and Log Returns of an asset, along with how and why they are used. Included is a comparison of 3 semiconductor equities, ADI, AMAT and AMD, as well as a simple time series for each stock's logarithmic returns over a 5-year period.
 
-### [Time Series Modeling](notebooks/time_series/)
+### _Textbook Notes_ [Time Series Modeling](notebooks/time_series/)
 
-### [Examining Distributions](notebooks/time_series/exploratory_data_analysis.ipynb)
+### _Textbook Notes_ [Examining Distributions](notebooks/time_series/exploratory_data_analysis.ipynb)
 
 <img src="/docs/readme_files/time_series_data_analysis_chapter/dists_side_by_side.png" alt="dists_compared"/>
 
@@ -34,23 +34,23 @@ This notebook covers a wide array of data analysis techniques for assets: Sample
 
 _Note: The Python section of this notebook is still in-progress, as a result this notebook is mostly just notes in markdown and LaTeX. The functions will be done before 2/4/24_
 
-### Time Series Modeling: Basics
+### _Textbook Notes:_ Time Series Modeling: Basics
 
-### Time Series Modeling: Further Topics
+### _Textbook Notes:_ Time Series Modeling: Further Topics
 
-### Modeling Univariate and Multivariate Statistical Models
+### _Textbook Notes:_ Modeling Univariate and Multivariate Statistical Models
 
-### Regression Models
+### _Textbook Notes:_ Regression Models
 
-### GARCH Models
+### _Textbook Notes:_ GARCH Models
 
-### Portfolio Selection
+### _Textbook Notes:_ Portfolio Selection
 
-### Capital Asset Pricing Model
+### _Textbook Notes:_ Capital Asset Pricing Model
 
 ### Fama-French 3-Factor Model
 
-### Fama-French 5-Facotr Model
+### Fama-French 5-Factor Model
 
 ### Portfolio Evaluation and Comparison Measures
 
