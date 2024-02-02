@@ -4,31 +4,37 @@ Statistical Analysis of Equities using Time Series Models, Regression, the Capit
 
 I will be taking notes on the Textbook _Statistics and Data Analysis for Financial Engineering with R examples_, and use it as a reference to learn about financial engineering and translate it into Python code and iPython notebooks.
 
-## Table of Contents(Links will be added as I cover the material)
+## Python Scripts
 
-### [Calculating Returns](notebooks/financial_data/returns_textbook_notes.ipynb)
+Scripts are still a TODO, and will focus on Object-Oriented representations of the finance topics covered in the Jupyter/iPython Notebooks
+
+## Jupyter/iPython Notebooks
+
+### Table of Contents(Links will be added as I cover the material)
+
+#### [Calculating Returns](notebooks/financial_data/returns_textbook_notes.ipynb)
 
 <img src="/docs/readme_files/returns_chapter/amd_log_returns.png" alt="amd_log" style="width: 85%;"/>
 
-### [Time Series Modeling](notebooks/time_series/)
+#### [Time Series Modeling](notebooks/time_series/)
 
-### [Examining Distributions](notebooks/time_series/exploratory_data_analysis.ipynb)
+#### [Examining Distributions](notebooks/time_series/exploratory_data_analysis.ipynb)
 
 <img src="/docs/readme_files/time_series_data_analysis_chapter/dists_side_by_side.png" alt="dists_compared"/>
 
-### Time Series Modeling: Basics
+#### Time Series Modeling: Basics
 
-### Time Series Modeling: Further Topics
+#### Time Series Modeling: Further Topics
 
-### Modeling Univariate and Multivariate Statistical Models
+#### Modeling Univariate and Multivariate Statistical Models
 
-### Regression Models
+#### Regression Models
 
-### GARCH Models
+#### GARCH Models
 
-### Portfolio Selection
+#### Portfolio Selection
 
-### Capital Asset Pricing Model
+#### Capital Asset Pricing Model
 
 ## Resources
 
