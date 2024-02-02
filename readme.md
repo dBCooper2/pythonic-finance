@@ -1,4 +1,4 @@
-# Pythonic Finance - Financial Analysis in Python
+# Pythonic Finance - Financial Engineering/Analysis in Python
 
 Statistical Analysis of Equities using Time Series Models, Regression, the Capital Asset Pricing Model(CAPM), and the Fama French 3-Factor and 5-Factor Models in Python and iPython Notebooks.
 
