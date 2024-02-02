@@ -4,15 +4,15 @@ This repository is a catch-all for notes, programs and algorithms for financial 
 
 ## Table of Contents(Links will be added as I cover the material)
 
-- [Calculating Returns](notebooks/financial_data/returns_textbook_notes.ipynb)
+### - [Calculating Returns](notebooks/financial_data/returns_textbook_notes.ipynb)
 
 <img src="/docs/readme_files/returns_chapter/adi_log_returns.png" alt="adi_log" style="width: 55%;"/>
 <img src="/docs/readme_files/returns_chapter/amat_log_returns.png" alt="amat_log" style="width: 55%;"/>
 <img src="/docs/readme_files/returns_chapter/amd_log_returns.png" alt="amd_log" style="width: 55%;"/>
 
-- [Time Series Modeling](notebooks/time_series/)
+### - [Time Series Modeling](notebooks/time_series/)
 
-  - [Examining Distributions](notebooks/time_series/exploratory_data_analysis.ipynb)
+####  - [Examining Distributions](notebooks/time_series/exploratory_data_analysis.ipynb)
 
 <img src="/docs/readme_files/time_series_data_analysis_chapter/dists_side_by_side.png" alt="dists_compared"/>
 
@@ -26,21 +26,19 @@ This repository is a catch-all for notes, programs and algorithms for financial 
     <img src="/docs/readme_files/time_series_data_analysis_chapter/aph_root_returns.png" alt="aph_rr" style="width: 45%;">
 </div>
 
-- Time Series Modeling: Basics
+####  - Time Series Modeling: Basics
 
-- Time Series Modeling: Further Topics
+####  - Time Series Modeling: Further Topics
 
-- Modeling Univariate and Multivariate Statistical Models
+### - Modeling Univariate and Multivariate Statistical Models
 
-- Regression Models
+### - Regression Models
 
-- Time Series Models
+### - GARCH Models
 
-- GARCH Models
+### - Portfolio Selection
 
-- Portfolio Selection
-
-- Capital Asset Pricing Model
+### - Capital Asset Pricing Model
 
 ## Resources
 
