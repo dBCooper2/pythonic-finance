@@ -18,31 +18,35 @@ Visualizing [Candle](https://github.com/dBCooper2/financial-modeling/blob/main/n
 
 ## Jupyter/iPython Notebooks
 
-### Table of Contents(Links will be added as I cover the material)
-
-#### [Calculating Returns](notebooks/financial_data/returns_textbook_notes.ipynb)
+### [Calculating Returns](notebooks/financial_data/returns_textbook_notes.ipynb)
 
 <img src="/docs/readme_files/returns_chapter/amd_log_returns.png" alt="amd_log" style="width: 85%;"/>
 
-#### [Time Series Modeling](notebooks/time_series/)
+This notebook examines the calculation of Net, Gross and Log Returns of an asset, along with how and why they are used. Included is a comparison of 3 semiconductor equities, ADI, AMAT and AMD, as well as a simple time series for each stock's logarithmic returns over a 5-year period.
 
-#### [Examining Distributions](notebooks/time_series/exploratory_data_analysis.ipynb)
+### [Time Series Modeling](notebooks/time_series/)
+
+### [Examining Distributions](notebooks/time_series/exploratory_data_analysis.ipynb)
 
 <img src="/docs/readme_files/time_series_data_analysis_chapter/dists_side_by_side.png" alt="dists_compared"/>
 
-#### Time Series Modeling: Basics
+This notebook covers a wide array of data analysis techniques for assets: Sample Quantiles, Kernel Density Estimations, Tests of Normality are some of the functions in this notebook; The plots covered are Histograms, Box Plots, Normal Probability Plots, Half-Normal Plots, and Quantile-Quantile Plots
 
-#### Time Series Modeling: Further Topics
+_Note: The Python section of this notebook is still in-progress, as a result this notebook is mostly just notes in markdown and LaTeX. The functions will be done before 2/4/24_
 
-#### Modeling Univariate and Multivariate Statistical Models
+### Time Series Modeling: Basics
 
-#### Regression Models
+### Time Series Modeling: Further Topics
 
-#### GARCH Models
+### Modeling Univariate and Multivariate Statistical Models
 
-#### Portfolio Selection
+### Regression Models
 
-#### Capital Asset Pricing Model
+### GARCH Models
+
+### Portfolio Selection
+
+### Capital Asset Pricing Model
 
 ## Resources
 
