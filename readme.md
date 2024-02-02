@@ -6,7 +6,7 @@ This repository is a catch-all for notes, programs and algorithms for financial 
 
 - [Calculating Returns](notebooks/financial_data/returns_textbook_notes.ipynb)
 
-<img src="/Users/dB/Documents/repos/github/pythonic-finance/docs/readme_files/returns_chapter/adi_log_returns.png" alt="adi_log" style="width: 55%;"/>
+<img src="/docs/readme_files/returns_chapter/adi_log_returns.png" alt="adi_log" style="width: 55%;"/>
 <img src="/docs/readme_files/returns_chapter/amat_log_returns.png" alt="amat_log" style="width: 55%;"/>
 <img src="/docs/readme_files/returns_chapter/amd_log_returns.png" alt="amd_log" style="width: 55%;"/>
 
