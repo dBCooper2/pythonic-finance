@@ -18,15 +18,15 @@ Visualizing [Candle](https://github.com/dBCooper2/financial-modeling/blob/main/n
 
 ## Jupyter/iPython Notebooks
 
-### _Textbook Notes_ [Calculating Returns](notebooks/financial_data/returns_textbook_notes.ipynb)
+### _Textbook Notes:_ [Calculating Returns](notebooks/financial_data/returns_textbook_notes.ipynb)
 
 <img src="/docs/readme_files/returns_chapter/amd_log_returns.png" alt="amd_log" style="width: 85%;"/>
 
 This notebook examines the calculation of Net, Gross and Log Returns of an asset, along with how and why they are used. Included is a comparison of 3 semiconductor equities, ADI, AMAT and AMD, as well as a simple time series for each stock's logarithmic returns over a 5-year period.
 
-### _Textbook Notes_ [Time Series Modeling](notebooks/time_series/)
+### _Textbook Notes:_ [Time Series Modeling](notebooks/time_series/)
 
-### _Textbook Notes_ [Examining Distributions](notebooks/time_series/exploratory_data_analysis.ipynb)
+### _Textbook Notes:_ [Examining Distributions](notebooks/time_series/exploratory_data_analysis.ipynb)
 
 <img src="/docs/readme_files/time_series_data_analysis_chapter/dists_side_by_side.png" alt="dists_compared"/>
 
