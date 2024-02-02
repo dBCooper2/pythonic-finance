@@ -1,44 +1,34 @@
 # Pythonic Finance - Financial Analysis in Python
 
-This repository is a catch-all for notes, programs and algorithms for financial analysis in Python and iPython. I will be taking notes on the Textbook _Statistics and Data Analysis for Financial Engineering with R examples_, and use it as a reference to learn about financial engineering and translate it into Python code and iPython notebooks.
+Statistical Analysis of Equities using Time Series Models, Regression, the Capital Asset Pricing Model(CAPM), and the Fama French 3-Factor and 5-Factor Models in Python and iPython Notebooks.
+
+I will be taking notes on the Textbook _Statistics and Data Analysis for Financial Engineering with R examples_, and use it as a reference to learn about financial engineering and translate it into Python code and iPython notebooks.
 
 ## Table of Contents(Links will be added as I cover the material)
 
-### - [Calculating Returns](notebooks/financial_data/returns_textbook_notes.ipynb)
+### [Calculating Returns](notebooks/financial_data/returns_textbook_notes.ipynb)
 
-<img src="/docs/readme_files/returns_chapter/adi_log_returns.png" alt="adi_log" style="width: 55%;"/>
-<img src="/docs/readme_files/returns_chapter/amat_log_returns.png" alt="amat_log" style="width: 55%;"/>
 <img src="/docs/readme_files/returns_chapter/amd_log_returns.png" alt="amd_log" style="width: 55%;"/>
 
-### - [Time Series Modeling](notebooks/time_series/)
+### [Time Series Modeling](notebooks/time_series/)
 
-  #### - [Examining Distributions](notebooks/time_series/exploratory_data_analysis.ipynb)
+### [Examining Distributions](notebooks/time_series/exploratory_data_analysis.ipynb)
 
 <img src="/docs/readme_files/time_series_data_analysis_chapter/dists_side_by_side.png" alt="dists_compared"/>
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="/docs/readme_files/time_series_data_analysis_chapter/aph_adj_close.png" alt="aph_adjclose" style="width: 45%;">
-    <img src="/docs/readme_files/time_series_data_analysis_chapter/aph_net_returns.png" alt="aph_nr" style="width: 45%;">
-</div>
+### Time Series Modeling: Basics
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="/docs/readme_files/time_series_data_analysis_chapter/aph_log_returns.png" alt="aph_lr" style="width: 45%;">
-    <img src="/docs/readme_files/time_series_data_analysis_chapter/aph_root_returns.png" alt="aph_rr" style="width: 45%;">
-</div>
+### Time Series Modeling: Further Topics
 
-  #### - Time Series Modeling: Basics
+### Modeling Univariate and Multivariate Statistical Models
 
-  #### - Time Series Modeling: Further Topics
+### Regression Models
 
-### - Modeling Univariate and Multivariate Statistical Models
+### GARCH Models
 
-### - Regression Models
+### Portfolio Selection
 
-### - GARCH Models
-
-### - Portfolio Selection
-
-### - Capital Asset Pricing Model
+### Capital Asset Pricing Model
 
 ## Resources
 
