@@ -7,23 +7,23 @@ This repository is a catch-all for notes, programs and algorithms for financial 
 - [Calculating Returns](notebooks/financial_data/returns_textbook_notes.ipynb)
 
 <img src="/Users/dB/Documents/repos/github/pythonic-finance/docs/readme_files/returns_chapter/adi_log_returns.png" alt="adi_log" style="width: 55%;"/>
-<img src="/Users/dB/Documents/repos/github/pythonic-finance/docs/readme_files/returns_chapter/amat_log_returns.png" alt="amat_log" style="width: 55%;"/>
-<img src="/Users/dB/Documents/repos/github/pythonic-finance/docs/readme_files/returns_chapter/amd_log_returns.png" alt="amd_log" style="width: 55%;"/>
+<img src="/docs/readme_files/returns_chapter/amat_log_returns.png" alt="amat_log" style="width: 55%;"/>
+<img src="/docs/readme_files/returns_chapter/amd_log_returns.png" alt="amd_log" style="width: 55%;"/>
 
 - [Time Series Modeling](notebooks/time_series/)
 
   - [Examining Distributions](notebooks/time_series/exploratory_data_analysis.ipynb)
 
-<img src="/Users/dB/Documents/repos/github/pythonic-finance/docs/readme_files/time_series_data_analysis_chapter/dists_side_by_side.png" alt="dists_compared"/>
+<img src="/docs/readme_files/time_series_data_analysis_chapter/dists_side_by_side.png" alt="dists_compared"/>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="/Users/dB/Documents/repos/github/pythonic-finance/docs/readme_files/time_series_data_analysis_chapter/aph_adj_close.png" alt="aph_adjclose" style="width: 45%;">
-    <img src="/Users/dB/Documents/repos/github/pythonic-finance/docs/readme_files/time_series_data_analysis_chapter/aph_net_returns.png" alt="aph_nr" style="width: 45%;">
+    <img src="/docs/readme_files/time_series_data_analysis_chapter/aph_adj_close.png" alt="aph_adjclose" style="width: 45%;">
+    <img src="/docs/readme_files/time_series_data_analysis_chapter/aph_net_returns.png" alt="aph_nr" style="width: 45%;">
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="/Users/dB/Documents/repos/github/pythonic-finance/docs/readme_files/time_series_data_analysis_chapter/aph_log_returns.png" alt="aph_lr" style="width: 45%;">
-    <img src="/Users/dB/Documents/repos/github/pythonic-finance/docs/readme_files/time_series_data_analysis_chapter/aph_root_returns.png" alt="aph_rr" style="width: 45%;">
+    <img src="/docs/readme_files/time_series_data_analysis_chapter/aph_log_returns.png" alt="aph_lr" style="width: 45%;">
+    <img src="/docs/readme_files/time_series_data_analysis_chapter/aph_root_returns.png" alt="aph_rr" style="width: 45%;">
 </div>
 
 - Time Series Modeling: Basics
