@@ -32,11 +32,13 @@ This notebook examines the calculation of Net, Gross and Log Returns of an asset
 
 <img src="/docs/readme_files/time_series_data_analysis_chapter/hists_kde.png" alt="dists_compared"/>
 
-This notebook covers a wide array of data analysis techniques for assets: Sample Quantiles, Kernel Density Estimations, Tests of Normality are some of the functions in this notebook; The plots covered are Histograms, Box Plots, Normal Probability Plots, Half-Normal Plots, and Quantile-Quantile Plots.
+This notebook covers histograms and kernel density estimates for examining sample distributions. Included are histograms and Gaussian KDE's of the semiconductor equity APH, implemented using matplotlib and KDEPy.
 
-Included are histograms and Normal Probability Plots of the semiconductor stock APH's daily adjusted close price, net returns, log returns and root returns.
+### _Python Exercises:_ [Examining Distributions and Testing for Normality](notebooks/time_series/exploratory_data_analysis__python_sample_analysis.ipynb)
 
-_Note: The Python section of this notebook is still in-progress, as a result this notebook is mostly just notes in markdown and LaTeX. The functions will be done before 2/4/24_
+This notebook covers testing for normality with samples of asset prices: Sample Quantiles, and Tests of Normality including the Shapiro-Wilk Test are some of the functions in this notebook; The plots covered are Box Plots, Normal Probability Plots, Half-Normal Plots, and Quantile-Quantile Plots.
+
+_Note: The Python section of this notebook is still in-progress, as a result this notebook is mostly just notes in markdown and LaTeX. The functions will be done before 2/6/24_
 
 ### _Textbook Notes:_ Time Series Modeling: Basics
 
