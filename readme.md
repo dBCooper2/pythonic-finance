@@ -36,9 +36,9 @@ This notebook covers histograms and kernel density estimates for examining sampl
 
 ### _Python Exercises:_ [Examining Distributions and Testing for Normality](notebooks/time_series/exploratory_data_analysis__python_sample_analysis.ipynb)
 
-This notebook covers testing for normality with samples of asset prices: Sample Quantiles, and Tests of Normality including the Shapiro-Wilk Test are some of the functions in this notebook; The plots covered are Box Plots, Normal Probability Plots, Half-Normal Plots, and Quantile-Quantile Plots.
+<img src="/docs/readme_files/time_series_data_analysis_chapter/normal_probability_plots.png" alt="normprobplots"/>
 
-_Note: The Python section of this notebook is still in-progress, as a result this notebook is mostly just notes in markdown and LaTeX. The functions will be done before 2/6/24_
+This notebook covers testing for normality with samples of asset prices: Sample Quantiles, and Tests of Normality including the Shapiro-Wilk Test are some of the functions in this notebook; The plots covered are Box Plots, Normal Probability Plots, Half-Normal Plots, and Quantile-Quantile Plots.
 
 ### _Textbook Notes:_ Time Series Modeling: Basics
 
