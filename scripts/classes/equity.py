@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import yfinance as yf
+import datetime as dt
 
 """ Equities are a representation of a Stock. 
     they are an access point to pickle files of historical price and financial statement data.
@@ -38,8 +39,9 @@ class Equity:
         pass
 
     # Used to get candles for a single equity at a specific interval, returns a DF of the candle data
-    def get_candles_one_interval(self,interval: str)-> pd.DataFrame:
-        pass
+    def get_candles_one_interval(self,interval: str, start_dt: dt, end_dt: dt)-> pd.DataFrame:
+        df = yf.download(tickers=self.symbol, interval=interval, start=start_dt, end=end_dt)
+        return df
 
     # pull book data from yfinance
     def get_book_data(self)-> None:
