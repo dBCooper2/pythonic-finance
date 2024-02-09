@@ -24,8 +24,6 @@ Visualizing [Candle](https://github.com/dBCooper2/financial-modeling/blob/main/n
 
 This notebook examines the calculation of Net, Gross and Log Returns of an asset, along with how and why they are used. Included is a comparison of 3 semiconductor equities, ADI, AMAT and AMD, as well as a simple time series for each stock's logarithmic returns over a 5-year period.
 
-### _Textbook Notes:_ [Time Series Modeling](notebooks/time_series/)
-
 ### _Textbook Notes:_ [Examining Distributions](notebooks/time_series/notebooks/time_series/exploratory_data_analysis__textbook.ipynb)
 
 ### _Python Exercises:_ [Examining Distributions with Histograms and Kernel Density Estimates](notebooks/time_series/exploratory_data_analysis__python_hists_kde.ipynb)
@@ -44,9 +42,11 @@ This notebook covers testing for normality with samples of asset prices: Sample 
 
 ### _Textbook Notes:_ Time Series Modeling: Further Topics
 
-### _Textbook Notes:_ Modeling Univariate and Multivariate Statistical Models
+### _Textbook Notes:_ [Regression Models](notebooks/regression_models/regression_basics__textbook_notes.ipynb)
 
-### _Textbook Notes:_ Regression Models
+### _Python Exercises:_ [Simple Linear Regression Model from Scratch](notebooks/regression_models/simple_linear_regression.ipynb)
+
+### _Textbook Notes:_ Modeling Univariate and Multivariate Statistical Models
 
 ### _Textbook Notes:_ GARCH Models
 
