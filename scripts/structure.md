@@ -6,6 +6,8 @@ This repository should be a modular series of scripts where a new method of anal
 
 The scripts should be able to perform analysis to decide if an equity is a good addition to a portfolio. This means that for each model, it needs to be able to function with both a single security or with a portfolio of securities. 
 
+## Classes
+
 The current scripts should be able to analyze a portfolio and a series of prospective additions to the portfolio using CAPM and Fama-French Models. This means the structure for the project should look like:
 
 ### __Equity__
@@ -58,3 +60,13 @@ The current scripts should be able to analyze a portfolio and a series of prospe
   
 - Overidden Functions
   - ANOVA Table Generator
+
+### __Visualizations__
+
+- Creates Visualizations using PyGWalker, MatPlotLib and Seaborn to visualize the completed Regression Estimations
+
+  ## Concerns/Non-Class Features
+
+  - Currently the OLS Model uses X and Y, figure out a way to better label the predictor and response variables for readability
+
+  - 
