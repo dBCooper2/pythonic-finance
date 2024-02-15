@@ -4,7 +4,7 @@ This repository should be a modular series of scripts where a new method of anal
 
 ## Current Plans
 
-The scripts should be able to perform analysis to decide if an equity is a good addition to a portfolio. This means that for each model, it needs to be able to function with both a single security or with a portfolio of securities. 
+The scripts should be able to perform analysis to decide if an equity is a good addition to a portfolio. This means that for each model, it needs to be able to function with both a single security or with a portfolio of securities.
 
 ## Classes
 
@@ -65,8 +65,10 @@ The current scripts should be able to analyze a portfolio and a series of prospe
 
 - Creates Visualizations using PyGWalker, MatPlotLib and Seaborn to visualize the completed Regression Estimations
 
-  ## Concerns/Non-Class Features
+## Concerns/Non-Class Features
 
-  - Currently the OLS Model uses X and Y, figure out a way to better label the predictor and response variables for readability
+- Currently the OLS Model uses X and Y, figure out a way to better label the predictor and response variables for readability
 
-  - 
+- Iterating over 1D Arrays need to be done using LISTS, and 2D Iteration needs to be done using NUMPY or PANDAS SERIES
+
+- Check the rules for downloading candles using Yahoo Finance! <https://github.com/ranaroussi/yfinance/wiki/Tickers#download>
