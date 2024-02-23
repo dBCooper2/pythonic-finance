@@ -36,6 +36,8 @@ This notebook contains notes on Univariate and Multivariate Linear Regression an
 
 ### _Python Exercises:_ [Simple Linear Regression Model from Scratch](notebooks/regression_models/simple_linear_regression.ipynb)
 
+### _Python Exercises:_ [Multiple Linear Regression Model from Scratch Using Normal Equations](notebooks/regression_models/multiple_linear_regression_redone.ipynb)
+
 ### _Textbook Notes:_ Modeling Univariate and Multivariate Statistical Models
 
 ### _Textbook Notes:_ GARCH Models
