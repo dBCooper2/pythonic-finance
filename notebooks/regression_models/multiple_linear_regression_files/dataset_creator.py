@@ -50,10 +50,10 @@ ff_5_df['x_ones'] = 1.0
 # Reorder the Columns
 # 3-Factor: x_ones, x_Mkt-RF, x_SMB, x_HML, y_exp_return
 ff3_reorder_into = ['x_ones', 'x_Mkt-RF', 'x_SMB', 'x_HML', 'y_exp_return']
-ff3_final = ff_3_df[ff3_reorder_into]
+ff3_final = ff_3_df[ff3_reorder_into].dropna()
 # 5-Factor: x_ones, x_Mkt-RF, x_SMB, x_HML, x_RMW, x_CMA, y_exp_return
 ff5_reorder_into = ['x_ones', 'x_Mkt-RF', 'x_SMB', 'x_HML', 'x_RMW', 'x_CMA', 'y_exp_return']
-ff5_final = ff_5_df[ff5_reorder_into]
+ff5_final = ff_5_df[ff5_reorder_into].dropna()
 
 ff3_final.to_csv(export_path + 'ff_3_factor.csv')
 ff5_final.to_csv(export_path + 'ff_5_factor.csv')
