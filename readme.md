@@ -70,6 +70,10 @@ Portfolios are a class that implements a Collection of Equity Objects to run CAP
 
 OLS_SimpleLinearRegression is a superclass for the CAPM and Fama-French Models that contains the multiple linear regression functions and a simple ANOVA table generator.
 
+#### [MultipleLinearRegression.py](https://github.com/dBCooper2/pythonic-finance/blob/main/scripts/classes/multiple_linear_regression.py)
+
+MultipleLinearRegression is a superclass for the Fama-French Models and estimates the betas using the MLR Model's Normal Equations. ANOVA Tables will be added once the subclasses and Simple Linear Regression Classes are done.
+
 #### CAPM_Regression.py
 
 CAPM_Regression is a subclass of OLS_SimpleLinearRegression that overrides the linear regression functions to perform a single-variable linear regression of an asset, and overrides the ANOVA table generator to add CAPM-specific metrics for the stock like Jensen's Alpha.
